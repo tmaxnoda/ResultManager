@@ -1,0 +1,2 @@
+# ResultManager
+Mages School Result
